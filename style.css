@@ -1,41 +1,24 @@
 body{
-    background-color: #f0f0f0;
+    background-color: midnightblue  ;
 }
 h1{
-    color: red;
-    font-size: 25px;
-    font-family: 'Segoe UI';
-    background-color: green;
+    color: aliceblue;
+    text-align: center;
+    display: grid;
 }
 p{
-    font-size: large;
+    color: rgb(13, 102, 180);
     text-align: center;
-    font-weight: bold;
-    color: red;
+    display: flexbox;
+}
+div{
+    border: solid rgb(136, 255, 0);
+    border-radius: 30px;
+    display: inline-block;
+    display: flexbox;
 }
 img{
-    max-width: 25%;
-    max-height: 25%;
-}
-.Enviar{
-border-radius: 5px;
-background-color: blue;
-}
-label{
-    background-color: blue;
-    font-size: 20px;
-}
-li{
-    font-size: 20px;
-}
-ol li{
-    font-size: 30px;
-    color: blueviolet;
-}
-ul li{
-    color: green;
-    /*para poner negrita Font*/
-    font-weight: bold;
-    background-color: yellow;
-    text-align: center;
+    width: 70px;
+    text-align:justify;
+    
 }
