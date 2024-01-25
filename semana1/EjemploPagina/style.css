@@ -1,0 +1,20 @@
+body{
+    background-color: yellow;
+}
+h1{
+    color: #fa04e5
+    /*1.-Nombre del color
+    2.-exagecimal
+    3.- rgv*/
+}
+h2{
+    color: #03fc18;
+}
+input{
+    border-radius: 25px;
+    color: #fa04e5;
+    text-decoration: #fd0230;
+}
+label{
+    color: #f756e9;
+}

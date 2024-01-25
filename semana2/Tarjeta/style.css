@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(250, 152, 4);
+}
+.a{
+    display: inline-flex;
+}
+img{
+    width: 90%;
+    margin: 1px;
+}
+h1{
+    text-align: center;
+}
+.b{
+    display: inline-flex;
+}
+  .card-container{
+  width: 1170px;
+  height: 368px;
+  margin: 10px 10px 50px;
+  display: flex;
+  background-color: var(--white);
+  }
+  .card.content{
+    text-align: start;
+    padding: 40px;
+    font-weight: 400;
+  }
+  .card-title{
+  font-size: var(--lg);
+  margin: 15px;
+  }
+  .card-date .card-place{
+    font-size: var(--sm);
+  }
+  .card-description{
+    font-size: var(--sm);
+    text-align: justify;
+    margin-top: 24px;
+  }
